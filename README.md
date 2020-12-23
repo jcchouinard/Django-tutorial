@@ -2,6 +2,10 @@
 
 In this repository, you will have a template to the absolute basic app that you can create with Django and Python.
 
+The details of this package are on my blog:
+
+[Get Started With Django (Python Tutorial)](https://www.jcchouinard.com/get-started-with-django/)
+
 ![Django App](djangoapp.png)
 
 ## About the Author
